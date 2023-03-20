@@ -24,8 +24,8 @@
          <th>Product</th>
          <th>Name</th>
          <th>Rating</th>
-         <th>Comment Heading</th>
-         <th>mycomment </th>
+         <th>Review Heading</th>
+         <th>Review </th>
          <th width="230">Comments</th>
       </tr>
          {% for review in reviews %}
@@ -33,8 +33,8 @@
           <td>{{review['Product']}}</td>
          <td>{{review['Name']}}</td>
          <td>{{review['Rating']}}</td>
-         <td>{{review['CommentHead']}}</td>
-         <td>{{review['Comment']}} </td>
+         <td>{{review['ReviewHead']}}</td>
+         <td>{{review['Review']}} </td>
          <td>{{review['Comment']}} </td>
        {% endfor %}
    </table>
