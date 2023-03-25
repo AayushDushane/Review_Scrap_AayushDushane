@@ -6162,3 +6162,1104 @@ INFO:werkzeug:[33mPress CTRL+C to quit[0m
 INFO:werkzeug:172.18.0.2 - - [21/Mar/2023 21:35:33] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [21/Mar/2023 21:35:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
 INFO:werkzeug:172.18.0.2 - - [21/Mar/2023 21:35:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.43:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Mar/2023 22:03:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Mar/2023 22:03:43] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Mar/2023 22:03:43] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Mar/2023 22:03:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [21/Mar/2023 22:03:48] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ..."}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.'}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!'}, {'Product': 'iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.'}, {'Product': 'iphone14', 'Name': 'Manish Choudhary', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing deviceI switch to iPhone 14 from iPhone 8. Great camera and power management full day battery backup. Sound quality and display also awesome. Just go for it if you have enough money'}, {'Product': 'iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}, {'Product': 'iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}]
+INFO:werkzeug:172.18.0.2 - - [21/Mar/2023 22:03:59] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Mar/2023 22:03:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Mar/2023 22:03:59] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [21/Mar/2023 22:04:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Mar/2023 22:04:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Mar/2023 22:04:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's20ultra', 'Name': 'Khurshid Shaikh', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': "WoW Phone Update I can't explain Samsung is ever and ever Feature and Future Phone ...easy phone easy use look outstanding No comments For Featured and FunctionI have Note 8 Before 3 year it was very excellent working .. After 3 year also .."}, {'Product': 's20ultra', 'Name': 'Ashish Gandhi', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': "Don't know about others but I am happy with my Galaxy S20 Ultra. And one more thing Samsung is releasing very fast new upgrades version of new mobile they take sometime to release the same so user and can value their products. Thank you."}, {'Product': 's20ultra', 'Name': 'Akkala Ravi Kishore', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'The Mobile is a master piece.No comparison to S20 Ultra.Advanced features and perfectly designed to the mark.The  mobile phone is lighting fast.Killkng Display.. No other mobile has such a bright and colorful display.Camera is simply sooperb, crisp and clear.8K videos... are fabulous.Such a nice mobile in love every min.Thanks alot for Samsung and Flipkart.'}, {'Product': 's20ultra', 'Name': 'Deepak  Khandelwal', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': "Superb quality of mobile I'm love in it"}, {'Product': 's20ultra', 'Name': 'Danggam Perme', 'Rating': '1', 'CommentHead': 'Absolute rubbish!', 'Comment': 'HONEST review  After using The phone for 5 days .it overheats  Within ten minutes  of playing  any games ..n while charging  it overheats  sometimes,I feel like it gonna burst . i been quite disappointed  as camera quality  is not so great as it claimed  to be .Total waste of  ? money?'}, {'Product': 's20ultra', 'Name': 'Krish Var', 'Rating': '1', 'CommentHead': 'Useless product', 'Comment': 'Phone heating issue n get dispaly problem'}, {'Product': 's20ultra', 'Name': 'Umesh Nair', 'Rating': '1', 'CommentHead': 'Worthless', 'Comment': 'Without doubt camera is unmatchable. Most prominent drawback being choice of Exynos 990 over Snapdragon 965 for Indian units due to which phone is under performing in terms of battery endurance as well as excessive heat up.Another major sore point is use of ultrasonic finger print sensor which is still not as receptive to ultra fast unlocking as compared to the optical sensors available in most other phones which is blazing fast.Lastly (maybe I am rare few who faced this) the delivery whi...'}, {'Product': 's20ultra', 'Name': 'Hashim Baig', 'Rating': '3', 'CommentHead': 'Nice', 'Comment': "Performance is good display is the best but the worst part is the battery it doesn't even last 4-5 hours on high usage. and on moderate usage, it will last only 10 hours. I think 5000 mah is just marketing gimmick battery life of this phone sucks they need to push a software update to fix this battery problem. first few days after buying this mobile the phone was getting so hot even when using basic things on the mobile and not gaming. now after a week the problem looks solved. but the batter..."}, {'Product': 's20ultra', 'Name': 'DEEPAK VARSHNEY', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'Good performance but original back cover and touch guard not inside the mobile'}, {'Product': 's20ultra', 'Name': 'abhijeet bannerjee', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Awesome phone with Awesome specs'}, {'Product': 's20ultra', 'Name': 'abhijeet bannerjee', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Awesome phone with Awesome specs'}]
+INFO:werkzeug:172.18.0.2 - - [21/Mar/2023 22:04:11] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Mar/2023 22:04:11] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [21/Mar/2023 22:04:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.30:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:12:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:12:38] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:12:38] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:12:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:19:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:19:47] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:19:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:19:47] "[33mGET /static/css/Q.svg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:19:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:19:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:19:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:20:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:20:09] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:20:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:20:09] "[33mGET /Q.svg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:21:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:21:18] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:21:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:21:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:21:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:21:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:24:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:24:33] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:24:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:24:33] "[33mGET /static/css/aayush.avif HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:25:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:25:42] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:25:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:25:42] "[33mGET /static/css/aayush.avif HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ..."}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.'}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!'}, {'Product': 'iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.'}, {'Product': 'iphone14', 'Name': 'Manish Choudhary', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing deviceI switch to iPhone 14 from iPhone 8. Great camera and power management full day battery backup. Sound quality and display also awesome. Just go for it if you have enough money'}, {'Product': 'iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}, {'Product': 'iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}]
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:26:01] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ..."}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.'}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!'}, {'Product': 'iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.'}, {'Product': 'iphone14', 'Name': 'Manish Choudhary', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing deviceI switch to iPhone 14 from iPhone 8. Great camera and power management full day battery backup. Sound quality and display also awesome. Just go for it if you have enough money'}, {'Product': 'iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}, {'Product': 'iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}]
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:26:02] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:26:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:26:02] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:27:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:27:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:27:00] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:27:01] "[33mGET /static/css/aayush.avif HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:27:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:27:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:27:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:27:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:27:04] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:27:04] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 13:27:04] "[33mGET /static/css/aayush.avif HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:42:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:42:20] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:42:20] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:42:21] "[33mGET /static/css/aayush.avif HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:42:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:45:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:45:42] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:45:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:45:42] "[33mGET /static/css/aayush.avif HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:48:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:48:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:48:07] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:48:07] "[33mGET /static/css/aayush.avif HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:48:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:48:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:48:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:48:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:48:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:48:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:49:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:49:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:49:57] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:49:57] "[33mGET /static/css/aayush.avif HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:49:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:49:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:49:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:49:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:49:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:49:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:51:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:51:50] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:51:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:51:50] "[33mGET /static/css/aayush.avif HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:52:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:52:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:52:07] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:54:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:54:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:54:49] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:54:49] "[33mGET /static/css/aayush.avif HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:55:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:55:56] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:55:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:55:56] "[33mGET /static/css/aayush.avif HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:55:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:55:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:55:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:55:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:55:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:55:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:55:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:55:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:55:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:56:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:56:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:56:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:56:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:56:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:56:07] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:56:07] "[33mGET /static/css/aayush.avif HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:56:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:56:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:56:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:56:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:56:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:56:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': '', 'Name': 'Mr NEERAJ  DANAI', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Nice'}, {'Product': '', 'Name': 'SACHIN  SINGH', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Nice'}, {'Product': '', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "It's very useful for us🙏 i love it❤️thaku"}, {'Product': '', 'Name': 'रोहित कुमार यादव', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'This book is osm. It is very helpful for any government job preparation . The pages of this book too good.'}, {'Product': '', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'This book is very nice and very helpfulAll exam map Book in help Good bookYou parchase'}, {'Product': '', 'Name': 'Manjay kumar', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'It is book funtactik'}, {'Product': '', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': '👍👍Very good'}, {'Product': '', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Best book for all exam 👍👍'}, {'Product': '', 'Name': 'Sidddhant Kumar', 'Rating': '3', 'CommentHead': 'Does the job', 'Comment': "That's  book too much useful  for every student. ..but unforchunatly  delivered quality  is not even good it has little  bad condition  from the corners of the book ..."}, {'Product': '', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Nice 😍'}, {'Product': '', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Nice 😍'}]
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:56:12] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:56:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:56:12] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:59:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:59:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:59:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:59:52] "[33mGET /static/css/aayush.avif HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:59:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:59:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:59:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:59:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:59:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:59:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:59:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:59:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 21:59:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:47] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:47] "[33mGET /static/css/aayush.avif HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:01:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:02:25] "[33mGET /static/css/aayush.avif HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:05:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:05:12] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:05:12] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:05:12] "[33mGET /static/css/aayush.avif HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:05:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:05:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:05:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:05:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:05:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:05:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:05:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:05:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:05:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:05:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:05:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:05:49] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': '', 'Name': 'Guddu Sona', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Excellent product value for money i liked the quality of the item very good product when the price was also very good aapko double tha price packing very good i got it in I got it in 3 quality thank you so much flipkart'}, {'Product': '', 'Name': 'Akanksha  Srivastava', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': "These are the best wipes, i've ever used for my baby.. Very nice quality & mesmerizing fragrance"}, {'Product': '', 'Name': 'Raj Sharma', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Superb product'}, {'Product': '', 'Name': 'Banita Nayak', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Very good on this price'}, {'Product': '', 'Name': 'Avleen  Kour', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Osm productFragrance is also nice Add on length of wipe is accurate 👌👌👌👌👌👌👌👌'}, {'Product': '', 'Name': 'Shamla  Aheed', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': "It's a good wet tissue.. It's mainly usable for diaper change .. I'm completely satisfied in these wipe"}, {'Product': '', 'Name': 'PRIYANATH BHATTACHARJEE', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Good Product'}, {'Product': '', 'Name': 'Khalida tanveer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Nice product I am happy with thisThank u flipkart'}, {'Product': '', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Osam'}, {'Product': '', 'Name': 'drhaleem', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Good'}, {'Product': '', 'Name': 'drhaleem', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Good'}]
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:15] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:15] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:08:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:28] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:09:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:11:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:11:45] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:11:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:12:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:12:41] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:12:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:13:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:13:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:13:06] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:13:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:13:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:13:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:13:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:13:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:13:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone', 'Name': 'Arnab Das', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Awesome battery backup amazing camera, a all day batter backup  improved and brilliant IOs 16.1 oled display dolby speakers and lot more, just close your eyes and go for it. One of the best handy smartphones ever and in great discount given by flipkart in big billion days 🔥'}, {'Product': 'iphone', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I upgraded to 13 from xs and my experience with this had been extraordinary . The user interface and the camera is too good .Just in love with this extraordinary device .I just shared some photos clicked from this phone so that everyone can have an idea about how good the camera is compared all other flagship devices . The lens inside the device is so efficient that it  automatically reduces the noise in the picture making it very crisp and clear  .'}, {'Product': 'iphone', 'Name': 'Mahesh Jaiswara', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'LOOK - Its my first love apple i phone 13, first time purchase this phone but its look awesome in white colour love it.  hand feel too much premium.CAMERA - Mind blowing camera performance font camera and rear cameras take too much awesome qualities pictures . Night mode is supergood low light performance impressed mePERFORMANCE - its bionic a15 chipset faster ,have 60hz refresh rate but its beatable 120hz DISPLAY - uts OLD XDR RETINA display too much good look display i get 10 of 10 for d...'}, {'Product': 'iphone', 'Name': 'Mahim Chauhan', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'I switch to ios from android after 10 years so this review might help for migratorsIt’s been a month using the iPhone13 and this was my experience1. Design - its simple and no nonsense design . Expect white and pink rest of the colours are fingerprint magnets.  I have seen all the colours and I highly recommend the pink . It’s so light pink which makes it not girlish. See it for yourself it really looks so premium in light pink colour. For rest of it except white the aluminium frame wil...'}, {'Product': 'iphone', 'Name': 'Vaibhav  Raj', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': "Amazing beast....As expected , didn't disappoint me,Had to sell hard chunk of kidneys to get it !!;pCamera quality is definitely a super upgradeBattery is super.. easily last throughout the day with heavy usage.Light weight looks stylish what else you need??Starlight color just wow!!!Apple it would have been better if you should  have given an adaptor. Increase 2k price and give it in box!!!Simple ....Edit 1 : After 14 days of usage highly satisfied with battery performance, Last thr..."}, {'Product': 'iphone', 'Name': 'Maharshi Pandey', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Picture quality is amazing you do not need to think twice about buying this for performance and photos, just go for it. Bionic A 15 is super fast and it has amazing performance, It is specially good for gaming although battery backup is not that good if you are a heavy user,But if you are a light or medium user it will give you battery backup of whole day in one charge.'}, {'Product': 'iphone', 'Name': 'Rajan Khan', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Just love it ❤️Camera is good Night mode is killer Performance and display is best Face id is very fast Looks very premium in hand Just go for it without thinking too much !'}, {'Product': 'iphone', 'Name': 'Vishal Dubey', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just upgraded from 11 to iPhone 13 ..cinematic mode video awesome camera awesome display awesome Looks A1 battery life is also good.New filter mode in camera added'}, {'Product': 'iphone', 'Name': 'sambit sahu', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'It’s my first ever ios device I kinda loving it total value for money. Best ever budget smart phone and thank you flipkart for delivering it in one  day.'}, {'Product': 'iphone', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Awesome camera Amazing battery life Super xdr display is 💕👌🏻Playing games and day to day task are smooth Face ID is superbiOS 15 is really awesome 🤩 thanks to Apple'}, {'Product': 'iphone', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Awesome camera Amazing battery life Super xdr display is 💕👌🏻Playing games and day to day task are smooth Face ID is superbiOS 15 is really awesome 🤩 thanks to Apple'}]
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:13:19] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:13:19] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:13:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:13:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:13:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:13:39] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:14:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:14:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:14:40] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:14:40] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:14:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:14:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:14:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:14:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:14:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:14:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Mar/2023 22:14:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:37:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:00] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:00] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:No Comment Heading
+INFO:root:local variable 'name' referenced before assignment
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:08] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:38:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:39:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:39:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:39:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:41:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:41:56] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:41:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:41:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:41:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:41:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:41:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:41:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:41:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:41:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:41:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:41:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:41:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:41:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:41:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .'}, {'Product': 'iphone11', 'Name': 'Manish Raghuvanshi', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Great iPhone very snappy experience as apple kind. Upgraded from iPhone 7. Pros-Camera top class - Battery top performed -Chipset no need to say as apple kind -Security as you expect from apple - Display super bright industry leading colour   accuracy and super responsive -Build quality as expect from apple sturdy  premium durable beautiful stylish. -Os most stable os in smartphone industry Cons -No 5G-Display is not based on OLED technology -Charger headphones and 1 apple stic...'}, {'Product': 'iphone11', 'Name': 'George Haokip', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': "I'm Really happy with the productDelivery was fast as well..it was a gift for my sister and she loved it so much."}, {'Product': 'iphone11', 'Name': 'Jimly  Gogoi', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': "It's my first time to use iOS phone and I am loving my upgradation 😍😍 I love the color, I love the assebility of the phone....I need to learn more about its functionality, but as far as I have seen, it's quite easy and it has a lot of functions to work on, specially if you are a content writer or a blogger you get a lot of content creation platforms and they are really amazing. This phone not only for good quality photography but a lot of other task too.😍💯"}, {'Product': 'iphone11', 'Name': 'Vamshi  Chakrala ', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Previously I was using one plus 3t it was a great phone And then I decided to upgrade I am stuck between Samsung s10 plus or iPhone 11 I have seen the specs and everything were good except the display it’s somewhere between 720-1080 and it’s not even an amoled it’s an LCD display But I decided to go with iPhone because I have never used an IOS device I have Been an android user from the past 9 years I ordered IPhone 11 (128gb) product redMy experience after using 3 weeks 1. The delivery ...'}, {'Product': 'iphone11', 'Name': 'Chirag Rajput', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Value for money5 star rating Excellent cameraBattery backup full day in single charge.Tougher and water resistant design, glossy back.The screen has excellent brightness and contrast.Apple A13 Bionic is the fastest smartphone chip on the planet.Excellent battery life, fast charging support.Stereo speakers with great quality.'}, {'Product': 'iphone11', 'Name': 'vijay hegde', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'I was using Iphone 6s and also Oneplus 6t. Both mobiles were perfectly alright in Photos, gaming, and smooth interface . My 6s mobile getting battery issue. thought upgrade to 11. Really like this mobile of its Internal storage (compare to 6s) , camera and its touch feeling. Its a worth buying mobile for me.'}, {'Product': 'iphone11', 'Name': 'Vishal Dubey', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'What a camera .....just awesome ..you can feel this iPhone just awesome . Good for gaming also ...try pubg in hd it’s just wow'}, {'Product': 'iphone11', 'Name': 'Rahul Verma', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Amazing Powerful and Durable Gadget.I’m am very happy with the camera picture quality, Amazing face id unlocked in dark room, Strong battery with perfect screen size as you can carry easily in pocket. This is my third iPhone. I shifted from android Samsung Note series to iPhone because of the strong build quality and peace of mind for next 3-4 years.Don’t think to much just go for it and I suggest you to go for minimum 128gb variant or more 256gb. I’ve attached my puppy pics and no fi...'}, {'Product': 'iphone11', 'Name': 'Rahul Verma', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Amazing Powerful and Durable Gadget.I’m am very happy with the camera picture quality, Amazing face id unlocked in dark room, Strong battery with perfect screen size as you can carry easily in pocket. This is my third iPhone. I shifted from android Samsung Note series to iPhone because of the strong build quality and peace of mind for next 3-4 years.Don’t think to much just go for it and I suggest you to go for minimum 128gb variant or more 256gb. I’ve attached my puppy pics and no fi...'}]
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:42:13] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:42:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:42:13] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:42:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:42:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:42:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:46:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:46:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:46:55] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:47:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:47:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:47:13] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:48:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:48:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:48:18] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:48:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:48:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:48:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:52:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:53:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:53:48] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:53:48] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:53:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'Iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ..."}, {'Product': 'Iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.'}, {'Product': 'Iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'Iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!'}, {'Product': 'Iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.'}, {'Product': 'Iphone14', 'Name': 'Manish Choudhary', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing deviceI switch to iPhone 14 from iPhone 8. Great camera and power management full day battery backup. Sound quality and display also awesome. Just go for it if you have enough money'}, {'Product': 'Iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}, {'Product': 'Iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.'}, {'Product': 'Iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}, {'Product': 'Iphone14', 'Name': 'sagar dimble', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}]
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:54:17] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:54:18] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 22:54:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:00:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:00:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:00:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:48] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:01:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:02:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:02:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:02:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone', 'Name': 'Arnab Das', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Awesome battery backup amazing camera, a all day batter backup  improved and brilliant IOs 16.1 oled display dolby speakers and lot more, just close your eyes and go for it. One of the best handy smartphones ever and in great discount given by flipkart in big billion days 🔥'}, {'Product': 'iphone', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I upgraded to 13 from xs and my experience with this had been extraordinary . The user interface and the camera is too good .Just in love with this extraordinary device .I just shared some photos clicked from this phone so that everyone can have an idea about how good the camera is compared all other flagship devices . The lens inside the device is so efficient that it  automatically reduces the noise in the picture making it very crisp and clear  .'}, {'Product': 'iphone', 'Name': 'Mahesh Jaiswara', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'LOOK - Its my first love apple i phone 13, first time purchase this phone but its look awesome in white colour love it.  hand feel too much premium.CAMERA - Mind blowing camera performance font camera and rear cameras take too much awesome qualities pictures . Night mode is supergood low light performance impressed mePERFORMANCE - its bionic a15 chipset faster ,have 60hz refresh rate but its beatable 120hz DISPLAY - uts OLD XDR RETINA display too much good look display i get 10 of 10 for d...'}, {'Product': 'iphone', 'Name': 'Mahim Chauhan', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'I switch to ios from android after 10 years so this review might help for migratorsIt’s been a month using the iPhone13 and this was my experience1. Design - its simple and no nonsense design . Expect white and pink rest of the colours are fingerprint magnets.  I have seen all the colours and I highly recommend the pink . It’s so light pink which makes it not girlish. See it for yourself it really looks so premium in light pink colour. For rest of it except white the aluminium frame wil...'}, {'Product': 'iphone', 'Name': 'Vaibhav  Raj', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': "Amazing beast....As expected , didn't disappoint me,Had to sell hard chunk of kidneys to get it !!;pCamera quality is definitely a super upgradeBattery is super.. easily last throughout the day with heavy usage.Light weight looks stylish what else you need??Starlight color just wow!!!Apple it would have been better if you should  have given an adaptor. Increase 2k price and give it in box!!!Simple ....Edit 1 : After 14 days of usage highly satisfied with battery performance, Last thr..."}, {'Product': 'iphone', 'Name': 'Maharshi Pandey', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Picture quality is amazing you do not need to think twice about buying this for performance and photos, just go for it. Bionic A 15 is super fast and it has amazing performance, It is specially good for gaming although battery backup is not that good if you are a heavy user,But if you are a light or medium user it will give you battery backup of whole day in one charge.'}, {'Product': 'iphone', 'Name': 'Rajan Khan', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Just love it ❤️Camera is good Night mode is killer Performance and display is best Face id is very fast Looks very premium in hand Just go for it without thinking too much !'}, {'Product': 'iphone', 'Name': 'Vishal Dubey', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just upgraded from 11 to iPhone 13 ..cinematic mode video awesome camera awesome display awesome Looks A1 battery life is also good.New filter mode in camera added'}, {'Product': 'iphone', 'Name': 'sambit sahu', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'It’s my first ever ios device I kinda loving it total value for money. Best ever budget smart phone and thank you flipkart for delivering it in one  day.'}, {'Product': 'iphone', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Awesome camera Amazing battery life Super xdr display is 💕👌🏻Playing games and day to day task are smooth Face ID is superbiOS 15 is really awesome 🤩 thanks to Apple'}, {'Product': 'iphone', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Awesome camera Amazing battery life Super xdr display is 💕👌🏻Playing games and day to day task are smooth Face ID is superbiOS 15 is really awesome 🤩 thanks to Apple'}]
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:05:11] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:05:11] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:05:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone', 'Name': 'Arnab Das', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Awesome battery backup amazing camera, a all day batter backup  improved and brilliant IOs 16.1 oled display dolby speakers and lot more, just close your eyes and go for it. One of the best handy smartphones ever and in great discount given by flipkart in big billion days 🔥'}, {'Product': 'iphone', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I upgraded to 13 from xs and my experience with this had been extraordinary . The user interface and the camera is too good .Just in love with this extraordinary device .I just shared some photos clicked from this phone so that everyone can have an idea about how good the camera is compared all other flagship devices . The lens inside the device is so efficient that it  automatically reduces the noise in the picture making it very crisp and clear  .'}, {'Product': 'iphone', 'Name': 'Mahesh Jaiswara', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'LOOK - Its my first love apple i phone 13, first time purchase this phone but its look awesome in white colour love it.  hand feel too much premium.CAMERA - Mind blowing camera performance font camera and rear cameras take too much awesome qualities pictures . Night mode is supergood low light performance impressed mePERFORMANCE - its bionic a15 chipset faster ,have 60hz refresh rate but its beatable 120hz DISPLAY - uts OLD XDR RETINA display too much good look display i get 10 of 10 for d...'}, {'Product': 'iphone', 'Name': 'Mahim Chauhan', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'I switch to ios from android after 10 years so this review might help for migratorsIt’s been a month using the iPhone13 and this was my experience1. Design - its simple and no nonsense design . Expect white and pink rest of the colours are fingerprint magnets.  I have seen all the colours and I highly recommend the pink . It’s so light pink which makes it not girlish. See it for yourself it really looks so premium in light pink colour. For rest of it except white the aluminium frame wil...'}, {'Product': 'iphone', 'Name': 'Vaibhav  Raj', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': "Amazing beast....As expected , didn't disappoint me,Had to sell hard chunk of kidneys to get it !!;pCamera quality is definitely a super upgradeBattery is super.. easily last throughout the day with heavy usage.Light weight looks stylish what else you need??Starlight color just wow!!!Apple it would have been better if you should  have given an adaptor. Increase 2k price and give it in box!!!Simple ....Edit 1 : After 14 days of usage highly satisfied with battery performance, Last thr..."}, {'Product': 'iphone', 'Name': 'Maharshi Pandey', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Picture quality is amazing you do not need to think twice about buying this for performance and photos, just go for it. Bionic A 15 is super fast and it has amazing performance, It is specially good for gaming although battery backup is not that good if you are a heavy user,But if you are a light or medium user it will give you battery backup of whole day in one charge.'}, {'Product': 'iphone', 'Name': 'Rajan Khan', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Just love it ❤️Camera is good Night mode is killer Performance and display is best Face id is very fast Looks very premium in hand Just go for it without thinking too much !'}, {'Product': 'iphone', 'Name': 'Vishal Dubey', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just upgraded from 11 to iPhone 13 ..cinematic mode video awesome camera awesome display awesome Looks A1 battery life is also good.New filter mode in camera added'}, {'Product': 'iphone', 'Name': 'sambit sahu', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'It’s my first ever ios device I kinda loving it total value for money. Best ever budget smart phone and thank you flipkart for delivering it in one  day.'}, {'Product': 'iphone', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Awesome camera Amazing battery life Super xdr display is 💕👌🏻Playing games and day to day task are smooth Face ID is superbiOS 15 is really awesome 🤩 thanks to Apple'}, {'Product': 'iphone', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Awesome camera Amazing battery life Super xdr display is 💕👌🏻Playing games and day to day task are smooth Face ID is superbiOS 15 is really awesome 🤩 thanks to Apple'}]
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:05:19] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:05:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:05:19] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:13:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:13:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:13:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:14:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:14:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:14:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:14:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:14:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:14:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:14:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:14:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:14:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:14:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:14:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:14:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:14:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:14:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:14:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:49] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:15:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:17:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:17:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:17:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:20:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:20:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:20:46] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:21:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:21:48] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:21:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:21:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:21:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:21:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:21:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:25:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:25:44] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:25:44] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:25:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:25:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:25:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:25:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:25:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:25:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:25:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:27:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:27:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:27:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:27:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:27:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:27:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:27:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:27:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:27:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iPhone', 'Name': 'Arnab Das', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Awesome battery backup amazing camera, a all day batter backup  improved and brilliant IOs 16.1 oled display dolby speakers and lot more, just close your eyes and go for it. One of the best handy smartphones ever and in great discount given by flipkart in big billion days 🔥'}, {'Product': 'iPhone', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I upgraded to 13 from xs and my experience with this had been extraordinary . The user interface and the camera is too good .Just in love with this extraordinary device .I just shared some photos clicked from this phone so that everyone can have an idea about how good the camera is compared all other flagship devices . The lens inside the device is so efficient that it  automatically reduces the noise in the picture making it very crisp and clear  .'}, {'Product': 'iPhone', 'Name': 'Mahesh Jaiswara', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'LOOK - Its my first love apple i phone 13, first time purchase this phone but its look awesome in white colour love it.  hand feel too much premium.CAMERA - Mind blowing camera performance font camera and rear cameras take too much awesome qualities pictures . Night mode is supergood low light performance impressed mePERFORMANCE - its bionic a15 chipset faster ,have 60hz refresh rate but its beatable 120hz DISPLAY - uts OLD XDR RETINA display too much good look display i get 10 of 10 for d...'}, {'Product': 'iPhone', 'Name': 'Mahim Chauhan', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'I switch to ios from android after 10 years so this review might help for migratorsIt’s been a month using the iPhone13 and this was my experience1. Design - its simple and no nonsense design . Expect white and pink rest of the colours are fingerprint magnets.  I have seen all the colours and I highly recommend the pink . It’s so light pink which makes it not girlish. See it for yourself it really looks so premium in light pink colour. For rest of it except white the aluminium frame wil...'}, {'Product': 'iPhone', 'Name': 'Vaibhav  Raj', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': "Amazing beast....As expected , didn't disappoint me,Had to sell hard chunk of kidneys to get it !!;pCamera quality is definitely a super upgradeBattery is super.. easily last throughout the day with heavy usage.Light weight looks stylish what else you need??Starlight color just wow!!!Apple it would have been better if you should  have given an adaptor. Increase 2k price and give it in box!!!Simple ....Edit 1 : After 14 days of usage highly satisfied with battery performance, Last thr..."}, {'Product': 'iPhone', 'Name': 'Maharshi Pandey', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Picture quality is amazing you do not need to think twice about buying this for performance and photos, just go for it. Bionic A 15 is super fast and it has amazing performance, It is specially good for gaming although battery backup is not that good if you are a heavy user,But if you are a light or medium user it will give you battery backup of whole day in one charge.'}, {'Product': 'iPhone', 'Name': 'Rajan Khan', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Just love it ❤️Camera is good Night mode is killer Performance and display is best Face id is very fast Looks very premium in hand Just go for it without thinking too much !'}, {'Product': 'iPhone', 'Name': 'Vishal Dubey', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just upgraded from 11 to iPhone 13 ..cinematic mode video awesome camera awesome display awesome Looks A1 battery life is also good.New filter mode in camera added'}, {'Product': 'iPhone', 'Name': 'sambit sahu', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'It’s my first ever ios device I kinda loving it total value for money. Best ever budget smart phone and thank you flipkart for delivering it in one  day.'}, {'Product': 'iPhone', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Awesome camera Amazing battery life Super xdr display is 💕👌🏻Playing games and day to day task are smooth Face ID is superbiOS 15 is really awesome 🤩 thanks to Apple'}, {'Product': 'iPhone', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Awesome camera Amazing battery life Super xdr display is 💕👌🏻Playing games and day to day task are smooth Face ID is superbiOS 15 is really awesome 🤩 thanks to Apple'}]
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:27:51] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:27:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:27:52] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:29:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:29:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:29:55] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:30:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:30:12] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:30:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:30:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:30:26] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:30:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:30:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:30:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:30:40] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:30:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:30:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:30:56] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:31:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:31:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:31:21] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:31:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:31:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:31:24] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:31:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:01] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:14] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:18] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:19] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:39] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:32:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:33:40] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:33:40] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:33:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:33:45] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:33:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:33:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:33:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:33:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:34:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:34:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:25] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:36] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:HTTP Error 429: Too Many Requests
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:39] "POST /review HTTP/1.1" 200 -
+INFO:root:HTTP Error 429: Too Many Requests
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:42] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:45] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:48] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:HTTP Error 429: Too Many Requests
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:37:50] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:38:39] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:38:42] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:39:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:39:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:39:15] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:39:18] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:39:22] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:39:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:39:48] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:39:49] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:39:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:39:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:39:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:39:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:39:55] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:39:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:39:55] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:root:HTTP Error 429: Too Many Requests
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:40:13] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:40:25] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:40:25] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:40:28] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:42:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:42:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:42:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ..."}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.'}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!'}, {'Product': 'iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.'}, {'Product': 'iphone14', 'Name': 'Manish Choudhary', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing deviceI switch to iPhone 14 from iPhone 8. Great camera and power management full day battery backup. Sound quality and display also awesome. Just go for it if you have enough money'}, {'Product': 'iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}, {'Product': 'iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}]
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:42:09] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:42:09] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:42:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ..."}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.'}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!'}, {'Product': 'iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.'}, {'Product': 'iphone14', 'Name': 'Manish Choudhary', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing deviceI switch to iPhone 14 from iPhone 8. Great camera and power management full day battery backup. Sound quality and display also awesome. Just go for it if you have enough money'}, {'Product': 'iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}, {'Product': 'iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}]
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:43:33] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:43:33] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:43:33] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ..."}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.'}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!'}, {'Product': 'iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.'}, {'Product': 'iphone14', 'Name': 'Manish Choudhary', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing deviceI switch to iPhone 14 from iPhone 8. Great camera and power management full day battery backup. Sound quality and display also awesome. Just go for it if you have enough money'}, {'Product': 'iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}, {'Product': 'iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}]
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:44:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:44:01] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:44:01] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:44:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:44:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:44:13] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:No Comment Heading
+INFO:root:local variable 'name' referenced before assignment
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:44:17] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:No Comment Heading
+INFO:root:local variable 'name' referenced before assignment
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:44:25] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'Iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ..."}, {'Product': 'Iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.'}, {'Product': 'Iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'Iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!'}, {'Product': 'Iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.'}, {'Product': 'Iphone14', 'Name': 'Manish Choudhary', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing deviceI switch to iPhone 14 from iPhone 8. Great camera and power management full day battery backup. Sound quality and display also awesome. Just go for it if you have enough money'}, {'Product': 'Iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}, {'Product': 'Iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.'}, {'Product': 'Iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}, {'Product': 'Iphone14', 'Name': 'sagar dimble', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}]
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:44:34] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:44:34] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:44:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ..."}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.'}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!'}, {'Product': 'iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.'}, {'Product': 'iphone14', 'Name': 'Manish Choudhary', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing deviceI switch to iPhone 14 from iPhone 8. Great camera and power management full day battery backup. Sound quality and display also awesome. Just go for it if you have enough money'}, {'Product': 'iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}, {'Product': 'iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}]
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:45:32] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:45:32] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:45:32] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ..."}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.'}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!'}, {'Product': 'iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.'}, {'Product': 'iphone14', 'Name': 'Manish Choudhary', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing deviceI switch to iPhone 14 from iPhone 8. Great camera and power management full day battery backup. Sound quality and display also awesome. Just go for it if you have enough money'}, {'Product': 'iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}, {'Product': 'iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}]
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:46:35] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:46:35] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:46:35] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ..."}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.'}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!'}, {'Product': 'iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.'}, {'Product': 'iphone14', 'Name': 'Manish Choudhary', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing deviceI switch to iPhone 14 from iPhone 8. Great camera and power management full day battery backup. Sound quality and display also awesome. Just go for it if you have enough money'}, {'Product': 'iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}, {'Product': 'iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}]
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:47:02] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:47:03] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:47:03] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:47:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:47:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:47:41] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:47:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:47:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:47:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:12] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:16] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:16] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:No Comment Heading
+INFO:root:local variable 'name' referenced before assignment
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:30] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:42] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:42] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:48:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:49:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:49:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:49:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:No Comment Heading
+INFO:root:local variable 'name' referenced before assignment
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:49:10] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:51:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Mar/2023 23:51:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:00:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:00:05] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:00:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:00:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:00:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:00:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:00:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:00:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:00:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:00:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:00:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:00:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:00:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:00:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:16] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:52] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:01:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:02:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:02:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:02:11] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:02:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:02:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:02:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:02:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:02:28] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:02:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:02:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:02:51] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:02:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:04:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:04:04] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:04:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:04:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:04:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:04:27] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:04:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:04:42] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:04:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:06:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:06:26] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:06:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:06:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:06:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:06:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:06:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:06:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:06:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:06:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:06:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:06:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:06:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:06:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:06:59] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:06:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:07:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:07:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:06] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:15] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:08:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:15:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:15:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:15:34] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:15:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:15:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:15:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:15:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:15:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:15:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:15:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:15:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:15:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:15:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:15:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:15:53] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:16:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:16:08] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:16:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:16:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:16:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:16:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:16:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:16:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:16:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:19:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:19:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:19:20] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:23:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:23:22] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:23:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:23:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:23:44] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:23:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:23:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:23:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:23:57] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:24:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:24:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:24:20] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:24:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:24:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:24:48] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:25:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:25:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:25:38] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:25:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:25:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:11] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:26:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:27:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:27:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:27:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:27:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:27:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:28:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:28:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:28:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:28:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:28:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:28:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:28:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:28:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:28:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:28:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:29:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:29:52] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:29:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:30:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:30:09] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 00:30:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.25:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 17:00:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 17:00:30] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 17:00:30] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 17:00:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ..."}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.'}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!'}, {'Product': 'iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.'}, {'Product': 'iphone14', 'Name': 'Manish Choudhary', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing deviceI switch to iPhone 14 from iPhone 8. Great camera and power management full day battery backup. Sound quality and display also awesome. Just go for it if you have enough money'}, {'Product': 'iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}, {'Product': 'iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}]
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 17:00:36] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 17:00:36] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 17:00:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ..."}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.'}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!'}, {'Product': 'iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.'}, {'Product': 'iphone14', 'Name': 'Manish Choudhary', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing deviceI switch to iPhone 14 from iPhone 8. Great camera and power management full day battery backup. Sound quality and display also awesome. Just go for it if you have enough money'}, {'Product': 'iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}, {'Product': 'iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}]
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 17:00:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 17:00:54] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 17:00:54] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ..."}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.'}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!'}, {'Product': 'iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.'}, {'Product': 'iphone14', 'Name': 'Manish Choudhary', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing deviceI switch to iPhone 14 from iPhone 8. Great camera and power management full day battery backup. Sound quality and display also awesome. Just go for it if you have enough money'}, {'Product': 'iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}, {'Product': 'iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}]
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 17:01:38] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 17:01:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 17:01:38] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 21:31:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 21:31:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 21:31:32] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 21:31:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ..."}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.'}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!'}, {'Product': 'iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.'}, {'Product': 'iphone14', 'Name': 'Manish Choudhary', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing deviceI switch to iPhone 14 from iPhone 8. Great camera and power management full day battery backup. Sound quality and display also awesome. Just go for it if you have enough money'}, {'Product': 'iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}, {'Product': 'iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}, {'Product': 'iphone14', 'Name': 'sagar dimble', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}]
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 21:31:41] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 21:31:41] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [25/Mar/2023 21:31:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -

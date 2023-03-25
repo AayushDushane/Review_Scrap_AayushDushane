@@ -1,12 +1,45 @@
 body, html {
     margin: 0;
     font-family: sans-serif;
+   
 }
 
 .content {
     margin: 0 auto;
-    width: 400px;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+form{
+    background: #fff;
+    width: 43vw;
+    height: 7vh;
+    display: flex;
+}
+form input{
+    flex: 1;
+    border: none;
+    outline: none;
+}
+
+form button{
+    flex: 1;
+    background: tomato;
+    padding: 10px 50px;
+    border: none;
+    outline: none;
+    color: #fff;
+    letter-spacing: 1px;
+    height: 7vh;
+}
+form .fa-search{
+    align-self: center;
+    padding: 10px 20px;
+    color: #777;
+}
+
 
 table, td, th {
     border: 1px solid #aaa;
@@ -33,3 +66,10 @@ td {
 #content {
     width: 70%;
 }
+@media only screen and (max-width: 500px){
+    form{
+        width: auto;
+     
+    }
+}
+    

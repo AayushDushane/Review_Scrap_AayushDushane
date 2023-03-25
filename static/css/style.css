@@ -1,5 +1,7 @@
 body {
-  background-color: #fafcfc;
+  background-color: #030303;
+  
+
 }
 body * {
   box-sizing: border-box;
@@ -20,8 +22,9 @@ img {
   width: 60px;
 }
 
+
 .table-users {
-  border: 1px solid #080808;
+  border: 1px solid #faf8f8;
   border-radius: 20px;
   box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.1);
   max-width: calc(100% - 2em);
@@ -47,7 +50,7 @@ table td:last-child {
   text-align: left;
 }
 table th {
-  background-color: #dfe1e1;
+  background-color: #b1b4b4;
   font-weight: 300;
 }
 table tr:nth-child(2n) {
